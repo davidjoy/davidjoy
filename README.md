@@ -10,7 +10,7 @@ These are some libraries and applications I've worked on at edX over the past fe
 
 ## 📖 Public Repos
 
-The public repositories here are primarily teaching materials that I've shared with my coworkers over the years.  I've taught folks about ES6, Webpack, React, Redux, and taught a programming fundamentals with Ruby class once upon a time.
+The public repositories here are primarily teaching materials that I've shared with my coworkers over the years.  I've taught folks about ES6, Webpack, React, Redux, and a programming fundamentals with Ruby class once upon a time.
 
 ## 🕵🏼 Private Repos (shhh)
 
