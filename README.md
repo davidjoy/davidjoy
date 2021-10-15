@@ -6,7 +6,7 @@ I've been writing software for quite a while now.  I primarily work in web appli
 
 ## 📌 Pinned Repos
 
-These are some libraries and applications I've worked on at edX over the past few years.  They're good examples of some of my professional work.
+These are some open source libraries and applications I've worked on at edX over the past few years.  They're good examples of some of my professional work, and are core modules of the Open edX Platform.
 
 ## 📖 Public Repos
 
