@@ -6,7 +6,7 @@ I've been writing software for quite a while now.  I primarily work in web appli
 
 ## 📌 Pinned Repos
 
-These are some open source libraries and applications I've worked on at edX over the past few years.  They're good examples of some of my professional work, and are core modules of the Open edX Platform.  You'll also see Lyceum Games "Venture" platform, which is a JavaScript storytelling platform I've been writing for a number of years.  
+These are some open source libraries and applications I've worked on at edX over the past few years.  They're good examples of some of my professional work, and are core modules of the Open edX Platform.  You'll also see the Lyceum Games "Venture" platform, which is a JavaScript-based storytelling platform I've been writing for a number of years.
 
 ## 📖 Public Repos
 
