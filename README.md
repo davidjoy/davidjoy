@@ -2,7 +2,7 @@
 
 My name is David.
 
-I've been writing software for quite a while now.  I primarily work in web applications, and in the past 10 years have been on a deep dive of the JavaScript ecosystem.  
+I've been writing software for a while now, and primarily work in web applications.  I gravitate toward frontend and developer experience, but have worked full-stack for my entire career.  I've done everything from servers to stylesheets.  
 
 ## 📌 Pinned Repos
 
